@@ -1,0 +1,38 @@
+{
+  "name": "orchestrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "base-64": "^0.1.0",
+    "body-parser": "^1.15.2",
+    "connect-multiparty": "^2.0.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.5.2",
+    "es6-promise": "^4.2.8",
+    "express": "^4.14.0",
+    "express-session": "^1.16.1",
+    "express-validator": "^2.20.8",
+    "jsencrypt": "^3.0.0-rc.1",
+    "jsonwebtoken": "8.5.1",
+    "knex": "^0.21.17",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "mysql2": "^1.6.5",
+    "node-cron": "^2.0.3",
+    "node-jsencrypt": "^1.0.0",
+    "node-restful": "^0.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
