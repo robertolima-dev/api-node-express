@@ -22,7 +22,7 @@
     "express": "^4.14.0",
     "express-session": "^1.16.1",
     "express-validator": "^2.20.8",
-    "jsencrypt": "^3.0.0-rc.1",
+    "jsencrypt": "^3.0.1",
     "jsonwebtoken": "8.5.1",
     "knex": "^0.21.17",
     "md5": "^2.2.1",
