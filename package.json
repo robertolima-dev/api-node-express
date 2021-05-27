@@ -16,7 +16,7 @@
     "connect-multiparty": "^2.0.0",
     "consign": "^0.1.6",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "ejs": "^2.5.2",
     "es6-promise": "^4.2.8",
     "express": "^4.14.0",
