@@ -24,7 +24,7 @@
     "express-validator": "^2.20.8",
     "jsencrypt": "^3.0.0-rc.1",
     "jsonwebtoken": "8.5.1",
-    "knex": "^0.21.17",
+    "knex": "^2.4.0",
     "md5": "^2.2.1",
     "moment": "^2.24.0",
     "mysql2": "^1.6.5",
