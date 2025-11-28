@@ -21,7 +21,7 @@
     "es6-promise": "^4.2.8",
     "express": "^4.14.0",
     "express-session": "^1.16.1",
-    "express-validator": "^2.20.8",
+    "express-validator": "^6.5.0",
     "jsencrypt": "^3.0.0-rc.1",
     "jsonwebtoken": "8.5.1",
     "knex": "^0.21.17",
